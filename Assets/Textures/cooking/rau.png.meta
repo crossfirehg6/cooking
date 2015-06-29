@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 44d8a6f4a1811234e8467178ddbdc4ec
+timeCreated: 1429866587
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rau_0
+    21300002: rau_1
+    21300004: rau_2
+    21300006: rau_3
+    21300008: rau_4
+    21300010: rau_5
+    21300012: rau_6
+    21300014: rau_7
+    21300016: rau_9
+    21300018: rau_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rau_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 375
+        width: 59
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 375
+        width: 59
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 375
+        width: 59
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 167
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 279
+        width: 141
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 169
+        width: 119
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 164
+        width: 167
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 131
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 145
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rau_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 81
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

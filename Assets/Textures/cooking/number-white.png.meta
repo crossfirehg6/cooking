@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 35bd0786bd49e2f45b4e12c0fbe56145
+timeCreated: 1433213614
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: number-white_0
+    21300002: number-white_1
+    21300004: number-white_2
+    21300006: number-white_3
+    21300008: number-white_4
+    21300010: number-white_5
+    21300012: number-white_6
+    21300014: number-white_7
+    21300016: number-white_8
+    21300018: number-white_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: number-white_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 96
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 527
+        width: 59
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 529
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 528
+        width: 82
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 264
+        width: 102
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 265
+        width: 81
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 266
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number-white_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 92
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ButtonClicked.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SortingLayer.cs" Line="12" Column="57" />
+      <File FileName="Assets\Scripts\ButtonClicked.cs" Line="107" Column="6" />
+      <File FileName="Assets\Scripts\Dress\_GMDress.cs" Line="117" Column="54" />
+      <File FileName="Assets\Scripts\Dress\ToolsClicked.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dress\closeBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Dress\iconClicked.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Intro\_GMIntro.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\knockDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ToothCare\_GM2.cs" Line="167" Column="3" />
+      <File FileName="Assets\Scripts\ItemsCheck.cs" Line="51" Column="25" />
+      <File FileName="Assets\Scripts\_GM.cs" Line="35" Column="3" />
+      <File FileName="Assets\Scripts\ToothCare\itemCheck_2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ToothCare\item_clicked_2.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleAdmob.cs" Line="56" Column="60" />
+      <File FileName="Assets\Scripts\more.cs" Line="12" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

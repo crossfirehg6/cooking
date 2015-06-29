@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: feb281152d3d3f140b079f75f0aa3a52
+timeCreated: 1429516011
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: foods2_0
+    21300002: foods2_1
+    21300004: foods2_2
+    21300006: foods2_3
+    21300008: foods2_4
+    21300010: foods2_5
+    21300012: foods2_6
+    21300014: foods2_7
+    21300016: foods2_8
+    21300018: foods2_9
+    21300020: foods2_10
+    21300022: foods2_11
+    21300024: foods2_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: foods2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 82
+        height: 119
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 165
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 165
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 151
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 151
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 103
+        width: 87
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 102
+        width: 87
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 83
+        width: 105
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 83
+        width: 104
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 38
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 38
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 125
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: foods2_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 124
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

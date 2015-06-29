@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\dress14_ads\HSController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Dress\_GMDress.cs" Line="6" Column="12" />
+      <File FileName="Assets\Scripts\ButtonClicked.cs" Line="167" Column="18" />
+      <File FileName="Assets\dress14_ads\HSController.cs" Line="7" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

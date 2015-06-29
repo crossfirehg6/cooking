@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 25b75741591d8cc43914a0d06b89722a
+timeCreated: 1434421590
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: num1111_0
+    21300002: num1111_1
+    21300004: num1111_2
+    21300006: num1111_3
+    21300008: num1111_4
+    21300010: num1111_5
+    21300012: num1111_6
+    21300014: num1111_7
+    21300016: num1111_8
+    21300018: num1111_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: num1111_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 397
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 397
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 399
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 398
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 200
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 201
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 202
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 68
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: num1111_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

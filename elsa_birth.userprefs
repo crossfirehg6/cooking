@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\house_clean\Assets\Scripts\ToothCare\item_clicked_2.cs">
+    <Files>
+      <File FileName="..\house_clean\Assets\Scripts\itemHit.cs" Line="30" Column="1" />
+      <File FileName="..\house_clean\Assets\Scripts\_GM.cs" Line="43" Column="23" />
+      <File FileName="..\house_clean\Assets\Scripts\ItemsClicked.cs" Line="1" Column="1" />
+      <File FileName="..\house_clean\Assets\Scripts\ToothCare\item_clicked_2.cs" Line="30" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 726fec2ff9221bf4cba48a49989545fc
+timeCreated: 1434338430
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: optionb_0
+    21300002: optionb_1
+    21300004: optionb_2
+    21300006: optionb_3
+    21300008: optionb_4
+    21300010: optionb_5
+    21300012: optionb_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: optionb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 1104
+        height: 1159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: optionb_1
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1303
+        width: 985
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: optionb_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1053
+        width: 985
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: optionb_3
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 832
+        width: 985
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: optionb_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 598
+        width: 985
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: optionb_5
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 382
+        width: 983
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: optionb_6
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 131
+        width: 982
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
